@@ -376,8 +376,7 @@ img.mfp-img {
     transform-origin: 100%; }
 
   .mfp-container {
-    padding-left: 6px;
-    padding-right: 6px; } }
+    padding: 0 6px; } }
 .mfp-ie7 .mfp-img {
   padding: 0; }
 .mfp-ie7 .mfp-bottom-bar {
